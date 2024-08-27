@@ -1,1 +1,1 @@
-this is some text in the second file
+this is some text different
